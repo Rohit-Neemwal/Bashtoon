@@ -12,7 +12,7 @@ Losses :
   - Content loss
     
 #################################################################################################
-All  the other information is Given in the notebook. Please Download it.
+All  the other information is Given in the notebook. Please download it.
 
 
 
