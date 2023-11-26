@@ -1,4 +1,4 @@
-# Bashtoon
+# Dashtoon
 
 Add your drive in colab and please change the directory name in file to store the images downloaded from the internet.
 
